@@ -27,7 +27,7 @@ or
 $ export APP_SETTINGS="skeleton.server.config.ProductionConfig"
 ```
 
-### Create DB
+### Create DB ....
 
 ```sh
 $ python manage.py create_db
